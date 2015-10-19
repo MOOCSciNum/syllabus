@@ -2,7 +2,7 @@
 
 ## Séance 0 : Recherche à l'ère du numérique : quelles transformations ? (séance d'introduction)
 - [Screencast] [Bienvenue dans ce MOOC](https://youtu.be/MKGgSefAjmU?list=PLp_ugSUC6I1oLenFuPlekHFU3nudIWa5V) Célya Gruson-Daniel
-- [Interview] [Science et numérique : quelles transformations ?](https://www.youtube.com/watch?v=rG7yjPKQ-ZY) Hervé Le Crosnier
+- [Interview] [Science et numérique : quelles transformations ?](https://www.youtube.com/watch?v=rG7yjPKQ-ZY) Hervé Le Crosnier + [mp3](https://oae.esup-portail.org/content/OAE-Esup/VJt1kPnll)
 - [Infographie](http://figshare.com/articles/Science_et_num_rique_quelles_transformations_/1572555) d'Hélène Pouille
 
 ## Séance 1 : S'appuyer sur des ressources scientifiques existantes
