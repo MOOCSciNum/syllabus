@@ -12,6 +12,7 @@
   - [Import et gestion de références bibliographiques](https://www.youtube.com/watch?v=pbzBhQk9S7w) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/4JFWaRzWg)
   - [Insertion et gestion de citations et de bibliographies](https://www.youtube.com/watch?v=6AoackQaw1g) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/Nkbq2Czbg)
   - [Partager des ressources dans un groupe Zotero](https://www.youtube.com/watch?v=HDcO2TAPGdk) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/VyGw30M-g) (*Célya Gruson-Daniel*)
+  - [Infographie](http://figshare.com/articles/Biblioth_que_et_num_rique_quels_d_fis_et_quels_r_les_jouer_/1585142) d'Hélène Pouille
 
 ## Séance 2 : Collecter/produire des données scientifiques
 - [Interview] Numérique et collecte de données en santé
