@@ -25,11 +25,6 @@
 - [Screencast 2] [Analyse de données en épidémiologie avec R](https://www.youtube.com/watch?v=KE-WZwGaGi4) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/N1csX8BGe)
 - [Screencast 3] [Une introduction à Git et Github](https://www.youtube.com/watch?v=jrxOCiIo1fs) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/VkUX4LrMx)
 
-Lectures de la séance et ressources supplémentaires : Disponibles sur [Zotero](https://www.zotero.org/groups/moocscinum/items/collectionKey/BJPCMNFU)
-
-Questions de débat : Tous data scientist dans le futur ?  Est-ce que "coder" est une compétence nécessaire pour tous les chercheurs aujourd'hui et demain ? 
-
-
 ## Séance 4 : Archiver/partager des données scientifiques : données de santé, données sensibles
 - [Interview 1] Des données partagées aux données ouvertes en recherche
 - [Interview 2] Données de santé, données sensibles : quels droits ? Quelles protections ?
