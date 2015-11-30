@@ -39,9 +39,10 @@
 
 
 ## Séance 6 : Faire partie d'une communauté scientifique
-- [Interview] Evaluer, être évalué : retour sur la "machinerie" de l'évaluation et ses évolutions
-- [Screencast 1] Faire connaître ses activités de recherche : comparaison de Zenodo et Figshare
-- [Screencast 2] Communiquer sur ses recherches : présence "en ligne".
+- [Interview] [Panorama de l'évaluation scientifique et de ses évolutions : du facteur d'impact au h index](https://www.youtube.com/watch?v=byRK3GusJyY&list=PLp_ugSUC6I1pR1VUBhBkVPFRugrLL_deA&index=1) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/NktwH-B4x) suivi de la partie 2 : [Le développement des altmetrics](https://www.youtube.com/watch?v=5Fpfb-jWPPU&list=PLp_ugSUC6I1pR1VUBhBkVPFRugrLL_deA&index=2) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/NynzIZSNg)(*David Pontille*))
+- [Screencast 1] [Présence en ligne : retour d'expérience d'un chercheur](https://www.amara.org/fr/videos/A0C9eEFAWGX9/info/presence-en-ligne-retour-dexperience-dun-chercheur-moocscinums6/) (*Thomas Crouzier*)
+- [Screencast 2] [Faire connaître ses activités de recherche : comparaison de Zenodo et Figshare](https://www.youtube.com/watch?v=KRq_rLldzME&list=PLp_ugSUC6I1pR1VUBhBkVPFRugrLL_deA&index=3) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/4JEiBWBNl) (*Thomas Crouzier*)
+- [Screencast 3] [Gérer son identité et sa présence en ligne avec HAL](https://www.youtube.com/watch?v=21LlrRz5HaU&list=PLp_ugSUC6I1pR1VUBhBkVPFRugrLL_deA&index=4) + [mp3](https://oae.esup-portail.org/content/OAE-Esup/NyRDjbBNe) (*Marie-Laure Paganelli*)
 
 ## Séance 7 : Nouvelles formes d’interaction en recherche et enjeux éthiques
 - [Interview 1] Ouvrir le processus de recherche : des sciences citoyennes à la recherche participative
